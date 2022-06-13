@@ -1,3 +1,6 @@
 YERBA 
 AZUCAR
 PAN
+banana
+manzana
+
