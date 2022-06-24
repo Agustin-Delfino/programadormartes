@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Agustin Delfino</title>
+</head>
+
+<body>
+    <h1>AGUSTIN DELFINO</h1>
+    <img src="img/FOTO CV.jpeg" alt="" />
+    <h3>Edad: 25 años</h2>
+        <h3>Domicilio: San José de flores</h2>
+            <h4>Que serien me gustan?
+        </h3>
+        <ul>
+            <li>Breaking bad</li>
+            <li>Pablo escobar, el patron del mal</li>
+            <li>Peaky blinders</li>
+        </ul>
+        <h4>Que pelis son las que mas me gustaron?</h2>
+            <ol>
+                <li>Trilogia del padrino</li>
+                <li>peliculas de marvel</li>
+                <li>harry potter</li>
+            </ol>
+            <h4>Perfil</h4>
+            <p>Me gusta trabajar en la pc referido a todo lo que sea programación</p>
+            <p>Me gusta poder dedicarle tiempo a los trabajos para poder lograrlos lo mejor posible</p>
+            <p>no me gustan los trabajos que requieran esfuerzo fisico, pero si tengo que hacerlos por alguna razón los hago sin problemas</p>
+               <h4> Si querés contactarme podes completar el siguiente <a href="formulario de ejercicio01.html" target="_blank"> formulario </h4>
+</body>
+
+</html>
